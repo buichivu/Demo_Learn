@@ -1,0 +1,9 @@
+[submodule "UnityHiddenByMom/Packages/com.gdk.core"]
+	path = UnityHiddenByMom/Packages/com.gdk.core
+	url = git@github.com:GameDevelopmentKit/GameFoundation.git
+[submodule "UnityHiddenByMom/Assets/UITemplate"]
+	path = UnityHiddenByMom/Assets/UITemplate
+	url = git@github.com:The1Studio/UITemplate.git
+[submodule "UnityHiddenByMom/Packages/com.gdk.3rd"]
+	path = UnityHiddenByMom/Packages/com.gdk.3rd
+	url = git@github.com:GameDevelopmentKit/ThirdPartyServices.git
